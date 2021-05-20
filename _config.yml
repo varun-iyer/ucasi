@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: ""
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: A collective of UC students working to introduce Animal Studies to UC curricula.
 logo: ucasi-logo.png
 url: https://varun-iyer.github.io/ucasi
 
